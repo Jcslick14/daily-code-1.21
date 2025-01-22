@@ -1,0 +1,7 @@
+#formula: miles = killometers*.621371
+
+def killoToMiles(k):
+    return k * .621371
+
+print(killoToMiles(100)) #call
+
