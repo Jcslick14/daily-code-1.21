@@ -1,0 +1,15 @@
+#formula = 3.14*radius*hight
+
+def CylinderArea(radius, height):
+    return 3.14*radius*radius*height
+    
+print(CylinderArea(10, 5))
+
+
+
+
+
+
+#1)look up and write out formula 
+#2) type "def" then name, then the parameters
+#3) type the forumla after return state
